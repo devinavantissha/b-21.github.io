@@ -158,7 +158,6 @@ h6{
 }
 p.read{
     color: #FBD784;
-    margin-right: 20px;
 }
 
 footer{
@@ -193,4 +192,11 @@ p.title{
 .part2 a, .part3 a{
     display: block;
     color: white;
+}
+.menu-icon{
+    color:white;
+    font-size:25px;
+    line-height:65px;
+    margin-top: 25px;
+    display:none !important;
 }
